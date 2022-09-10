@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\obj\Debug\CheckPrime.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\obj\Debug\CheckPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\obj\Debug\CheckPrime.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\hp\source\repos\CheckPrime\HelloWorld\obj\Debug\HelloWorld.pdb
